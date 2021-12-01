@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/* Header section is used to target specific areas on the header and change certain colors if so desired */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -85,10 +85,15 @@ figure {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
+/*Benefits-base: all below revolve around each other that begin with benefit*/
 
-.benefit-lead {
+.benefit-base {
     margin-bottom: 32px;
     color: #ffffff;
+}
+
+#benefit-lead {
+  color: black;
 }
 
 .benefit-brand {
