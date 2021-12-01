@@ -1,36 +1,20 @@
-# Code-Refractor
+# Code-Refactor
 
+## Description
 
-This application is designed to take different inputs from different users and create a tech blog page where you can log in, log out, and even add your own pieces of commentary on select sections of the page. 
-
-
-## Getting Started
-
-
-### Prerequisites
-
--Install Heroku
-
--Install Node
-
--Install VS Studio Code
+This assignment was an assignment given to us to refactor a webpage so that the links a client would see are functional. As well as ensure the CSS is consolidated correctly.
 
 
 ### Installing
 
-NPM install in integrated terminal
-
-```
-
-Then run the following command: npm start
-
-```
-
+No installation needed.
 
 
 ## Screenshot of site
 
+![Image](homepage.png)
 
+![Image](bottom-homepage.png)
 
 
 
