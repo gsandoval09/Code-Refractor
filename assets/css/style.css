@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-/* Header section is used to target specific areas on the header and change certain colors if so desired */
+/* Header section is used to target specific areas on the header and change certain colors if so desired as long as they are in the context of header  */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -147,7 +147,7 @@ figure {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/* Different sections such as online-reputation management targets different areas of the webpage being selected for color change */
 .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
